@@ -1,0 +1,4 @@
+# Small live check: the two rutube.ru A records and the candidate endpoint.
+109.238.90.239/32
+178.248.233.148/32
+5.129.242.110/32

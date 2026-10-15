@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+# Generated input, scans and local experiments belong in Actions artifacts.
+asn*_cidr.txt
+detected.txt
+detected.jsonl
+*.log
+*.log.*
+scan_test_detected.*
+headcheck_results/
+scan-results/
+scan-input/
+scan-parts/
